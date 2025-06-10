@@ -2,9 +2,9 @@ Here is a complete README.md file for your "Fennec" (الفنك) tool, including
 
 ---
 
-# الفنك - Fennec
+# الفنك - Fennec 🦊 
 
-![شعار الفنك](images/logo.ico)
+
 ![لقطة شاشة للواجهة](images/screenshot.png)
 
 ## 🇸🇦 الفنك - أداة اختبار أمان متكاملة
@@ -45,9 +45,9 @@ python message_app.py
 
 ---
 
-## 🇬🇧 Fennec - Comprehensive Security Testing Tool
+## 🇬🇧 Fennec - Comprehensive Security Testing Tool 🦊 
 
-![Fennec Logo](images/logo.ico)
+
 ![App Screenshot](images/screenshot.png)
 
 ### Overview
